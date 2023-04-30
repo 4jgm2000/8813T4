@@ -1,6 +1,10 @@
 # 8813T4
 Team 4 project for 8813 Covid detection using wearable data
 
+Overleaf - https://www.overleaf.com/5833861397jzvfyfgkrdtv
+
+
+
 #LSTM Model
 
 
