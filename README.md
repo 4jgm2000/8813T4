@@ -17,6 +17,6 @@ Uses helper function load_data.py and load_healthy_data.py
 Will generate patterns for specific groups (pattern_covidxx.csv, pattern_healthyxx.csv; where xx refers to the model support patterns). Requires .json from generate_pattern_healthy.py generate_pattern.py and generate_pattern_sleep.py
 This file also creates the train, test, and external validation sets we use in the future model steps. 
 
-#Pattern Classifier
+#Pattern Classifier - Pattern/patter_classifier.py
 Will read in csv based support patterns and find difference. Will then do NB on the 5 cv, no further parameters. 
 
