@@ -1,0 +1,7 @@
+,support,itemsets,length
+0,0.5010183299389002,frozenset({'C-AA-day'}),1
+1,0.6843177189409368,frozenset({'C-AA-night'}),1
+2,0.6211812627291242,frozenset({'D-AA-day'}),1
+3,0.6069246435845214,frozenset({'D-AA-night'}),1
+4,0.5498981670061099,frozenset({'D-BB-day'}),1
+5,0.6109979633401222,frozenset({'E-BB-day'}),1

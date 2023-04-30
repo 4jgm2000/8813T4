@@ -1,0 +1,18 @@
+,support,itemsets,length
+0,0.41843844916919776,frozenset({'B-AA-night'}),1
+1,0.4620332320886189,frozenset({'C-AA-day'}),1
+2,0.6296230123280329,frozenset({'C-AA-night'}),1
+3,0.5299267464713239,frozenset({'D-AA-day'}),1
+4,0.5526174736465964,frozenset({'D-AA-night'}),1
+5,0.5502948007861355,frozenset({'D-BB-day'}),1
+6,0.390923709129891,frozenset({'E-AA-day'}),1
+7,0.5788815436841165,frozenset({'E-BB-day'}),1
+8,0.43630516348043596,frozenset({'F-BB-day'}),1
+9,0.37484366624977666,"frozenset({'C-AA-night', 'C-AA-day'})",2
+10,0.3869930319814186,"frozenset({'C-AA-night', 'D-AA-day'})",2
+11,0.3771663391102376,"frozenset({'D-AA-night', 'C-AA-night'})",2
+12,0.4132571020189387,"frozenset({'D-BB-day', 'C-AA-night'})",2
+13,0.4084330891549044,"frozenset({'E-BB-day', 'C-AA-night'})",2
+14,0.3705556548150795,"frozenset({'D-AA-night', 'D-AA-day'})",2
+15,0.3635876362336966,"frozenset({'E-BB-day', 'D-AA-night'})",2
+16,0.3764516705377881,"frozenset({'E-BB-day', 'D-BB-day'})",2

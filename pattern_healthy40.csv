@@ -1,0 +1,11 @@
+,support,itemsets,length
+0,0.41843844916919776,frozenset({'B-AA-night'}),1
+1,0.4620332320886189,frozenset({'C-AA-day'}),1
+2,0.6296230123280329,frozenset({'C-AA-night'}),1
+3,0.5299267464713239,frozenset({'D-AA-day'}),1
+4,0.5526174736465964,frozenset({'D-AA-night'}),1
+5,0.5502948007861355,frozenset({'D-BB-day'}),1
+6,0.5788815436841165,frozenset({'E-BB-day'}),1
+7,0.43630516348043596,frozenset({'F-BB-day'}),1
+8,0.4132571020189387,"frozenset({'C-AA-night', 'D-BB-day'})",2
+9,0.4084330891549044,"frozenset({'C-AA-night', 'E-BB-day'})",2
