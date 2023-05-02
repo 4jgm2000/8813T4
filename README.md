@@ -6,7 +6,10 @@ Overleaf - https://www.overleaf.com/5833861397jzvfyfgkrdtv
 
 
 #LSTM Model
-
+1. try_laad.py  - Generate RHR for covid patient
+2. try_laad_healthy.py - Generate RHR for healthy patient
+3. split_data.py - Split data into training/validation/testing
+4. model_training.py - Train LSTM on cross-validation data, and generate results on test data.
 
 #Preprocessing Files (generate_pattern_healthy.py generate_pattern.py, generate_pattern_sleep.py)
 These files process the data from Mishra et al. by loading, interpolating, and binning smartwatch data into pattern labels for each group (healthy, Covid, and those with sleep data)
